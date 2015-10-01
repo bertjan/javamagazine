@@ -33,6 +33,6 @@ Co-written with Tim van Eijndhoven.
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-01%20-%20Reactive%20programming%20met%20RxJava.pdf)
 
 ## Continuous Performance - Loadtesten voor developers met Gatling
-Published in Java magazine 2014-04.  
+Published in Java magazine 2015-04.  
 Co-written with Tim van Eijndhoven.  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-04%20-%20Continuous%20Performance.pdf)
