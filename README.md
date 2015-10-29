@@ -36,3 +36,8 @@ Co-written with Tim van Eijndhoven.
 Published in Java magazine 2015-04.  
 Co-written with Tim van Eijndhoven.  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-04%20-%20Continuous%20Performance.pdf)
+
+## Microservices in de praktijk.
+Published in Java magazine 2015-05.  
+Co-written with Jethro Bakker, Eelco Meuter, Maarten Dirkse and Maarten Roosendaal.  
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/TODO.pdf)
