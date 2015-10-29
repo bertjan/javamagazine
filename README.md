@@ -40,4 +40,4 @@ Co-written with Tim van Eijndhoven.
 ## Microservices in de praktijk.
 Published in Java magazine 2015-05.  
 Co-written with Jethro Bakker, Eelco Meuter, Maarten Dirkse and Maarten Roosendaal.  
-[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/TODO.pdf)
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-05%20-%20Microservices%20in%20de%20praktijk.pdf)
