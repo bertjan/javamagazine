@@ -43,6 +43,6 @@ Co-written with Jethro Bakker, Eelco Meuter, Maarten Dirkse and Maarten Roosenda
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-05%20-%20Microservices%20in%20de%20praktijk.pdf)
 
 ## JavaOne 2015 - JavaOne viert 20 jarig bestaan Java
-Published in Java magazine 2015-06.
-Co-written with Ivo Woltring and Koen Aben.
+Published in Java magazine 2015-06.  
+Co-written with Ivo Woltring and Koen Aben.  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-06%20-%20JavaOne%20viert%2020%20jarig%20bestaan%20Java.pdf)
