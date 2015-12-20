@@ -37,7 +37,12 @@ Published in Java magazine 2015-04.
 Co-written with Tim van Eijndhoven.  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-04%20-%20Continuous%20Performance.pdf)
 
-## Microservices in de praktijk.
+## Microservices in de praktijk
 Published in Java magazine 2015-05.  
 Co-written with Jethro Bakker, Eelco Meuter, Maarten Dirkse and Maarten Roosendaal.  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202015-05%20-%20Microservices%20in%20de%20praktijk.pdf)
+
+## JavaOne 2015 - JavaOne viert 20 jarig bestaan Java
+Published in Java magazine 2015-06.
+Co-written with Ivo Woltring and Koen Aben.
+[Download as PDF](todo)
