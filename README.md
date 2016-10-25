@@ -50,12 +50,12 @@ Co-written with Ivo Woltring and Koen Aben.
 ## De Java-ontwikkelomgeving van 2016
 Published in Java magazine 2016-05.  
 Co-written with Johan Janssen, Erwin de Gier and Eelco Meuter.  
-[Download as PDF](https://github.com/bertjan/javamagazine/blob/master/pdf/Java%20magazine%202016-05%20-%20De%20Java-ontwikkelomgeving%20van%202016.pdf)
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202016-05%20-%20De%20Java-ontwikkelomgeving%20van%202016.pdf)
 
 ## JavaOne 2016 - Java met een oranje tintje
 Published in Java magazine 2016-05.  
 Co-written with Erwin Hoeckx, Ko Turk and Tim van Eijndhoven.  
-[Download as PDF](https://github.com/bertjan/javamagazine/blob/master/pdf/Java%20magazine%202016-05%20-%20JavaOne%202016%20-%20Java%20met%20een%20oranje%20tintje.pdf)
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202016-05%20-%20JavaOne%202016%20-%20Java%20met%20een%20oranje%20tintje.pdf)
 
 
 
