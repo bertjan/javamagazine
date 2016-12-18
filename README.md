@@ -1,11 +1,9 @@
 # Java magazine articles
 Overview of articles I (co-)authored for the Dutch Java magazine, published by [NLJUG](www.nljug.org).
 
-
 ## Pipeline as code - Continuous Delivery pipelines met Jenkins 2
 Published in Java magazine 2016-06.  
-[Download as PDF](todo)
-
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202016-06%20-%20Pipeline%20as%20code.pdf)
 
 ## JavaOne 2016 - Java met een oranje tintje
 Published in Java magazine 2016-05.  
