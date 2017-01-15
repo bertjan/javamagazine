@@ -1,5 +1,8 @@
 # Java magazine articles
-Overview of articles I (co-)authored for the Dutch Java magazine, published by [NLJUG](www.nljug.org).
+Overview of articles I (co-)authored for the Dutch Java magazine, published by [NLJUG](www.nljug.org).  
+
+Note for viewing on a mobile device: Github doesn't show the article contents on its mobile site.  
+To view an article on mobile, click 'View on Github' and then 'Desktop version'.  
 
 ## Pipeline as code - Continuous Delivery pipelines met Jenkins 2
 Published in Java magazine 2016-06.  
