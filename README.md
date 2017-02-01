@@ -6,7 +6,8 @@ Overview of articles I (co-)authored for the Dutch Java magazine, published by [
 ## Pipeline as code - Continuous Delivery pipelines met Jenkins 2
 Published in Java magazine 2016-06.  
 [View on Github](https://github.com/bertjan/javamagazine/blob/master/pdf/Java%20magazine%202016-06%20-%20Pipeline%20as%20code.pdf)  
-[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202016-06%20-%20Pipeline%20as%20code.pdf)
+[Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202016-06%20-%20Pipeline%20as%20code.pdf)  
+Also published on Voxxed: [https://www.voxxed.com/blog/2017/01/pipeline-as-code-with-jenkins-2/](https://www.voxxed.com/blog/2017/01/pipeline-as-code-with-jenkins-2/)
 
 ## JavaOne 2016 - Java met een oranje tintje
 Published in Java magazine 2016-05.  
