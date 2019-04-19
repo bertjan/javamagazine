@@ -4,7 +4,7 @@ Overview of articles I (co-)authored for the Dutch Java magazine, published by [
 *Note for viewing on a mobile device: Github doesn't show the article contents on its mobile site. To view an article on mobile, click 'View on Github' and then 'Desktop version' in the Github UI.*  
 
 ## CodeOne 2018
-Published in Java magazine 2019-01.
+Published in Java magazine 2019-01.  
 Co-written with Rosanne Joosten and Ivo Woltring.  
 [View on Github](https://github.com/bertjan/javamagazine/blob/master/pdf/Java%20magazine%202019-01%20-%20CodeOne%202018.pdf)  
 [Download as PDF](https://github.com/bertjan/javamagazine/raw/master/pdf/Java%20magazine%202019-01%20-%20CodeOne%202018.pdf)  
